@@ -1,0 +1,26 @@
+/* * {
+    margin: 0 !important;
+    padding: 0 !important;
+} */
+
+.banner {
+    height: 700px;
+    background: url(https://harypham97.github.io/template-bootstrap/banner.jpg) center center no-repeat;
+    background-color: black;
+    padding: 20px;
+}
+
+.red {
+    border: 1px solid red;
+}
+
+.about-sign-in {
+    height: 80px;
+    width: 100%;
+    text-align: right;
+}
+
+.about,
+.signin {
+    text-decoration: none;
+}
